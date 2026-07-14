@@ -320,7 +320,7 @@ PR Description: This contribution fixes issue #3371 by allowing MP4/WebM uploads
 
 Maintainer Feedback: No feedback yet
 
-Status: Awaiting review
+Status: Phase 4 - Awaiting pull request review and approval
 
 Commit Message:
 
@@ -332,7 +332,7 @@ fix: support video uploads for board backgrounds
 
 #### Implementation Progress
 
-Current status: Phase III implementation and first automated test pass are complete.
+Current status: Phase 4 is in progress. Implementation and initial testing are complete, the pull request has been opened, and the contribution is awaiting maintainer review and approval.
 
 * Added image and video MIME constants in `packages/validation/src/media.ts`.
 * Allowed `video/mp4` and `video/webm` in backend media upload validation.
